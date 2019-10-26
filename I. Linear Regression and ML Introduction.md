@@ -1,5 +1,5 @@
 ## I. Linear Regression and ML Introduction
- - A general linear function for vector **x**: $f(x;w,b) =w^Tx+b$, where $w$ and $x$ are two column vectors.
+1. A general linear function for vector **x**: $f(x;w,b) =w^Tx+b$, where $w$ and $x$ are two column vectors.
 ---> a. For multiple instances: $\underline{y} = \underline{X}w + b$. when output $\underline{y}$ and input $\underline{X}$ are matrix, stacked by $n$ input-output pairs $(x^{(i)},y^{(i)}), i = 1,2,...n$:
 $$\underline{X}=
 \left(
@@ -32,6 +32,6 @@ $$where D is the dimension of the data, n is the number of the instances. $$\new
  $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTE5Nzg4NDcsLTE4NDA0MDc4MTUsLT
-E3MTcyMjk0ODMsLTE3MDY5OTI2NjldfQ==
+eyJoaXN0b3J5IjpbLTE1OTY4MzE4MywtMTg0MDQwNzgxNSwtMT
+cxNzIyOTQ4MywtMTcwNjk5MjY2OV19
 -->
