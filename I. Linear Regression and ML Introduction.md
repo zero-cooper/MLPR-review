@@ -26,9 +26,12 @@ $$\underline{X}=
 $$where D is the dimension of the data, n is the number of the instances. $$\newline$$
 ---> b. Total square error between prediction function $f$ and true value: $$L = \sum_{n=1}^{N}[y^{(n)}-f(x^{(n)};w,b)]^2 = (y-f)^T(y-f)$$ 
  - The least-square fitting problem is to find the parameters (in this case $w,b$) that minimize the error.
- - 
+ - General form: 
+ $$
+ X\rightarrow X' = 
+ $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODUwMDAwNDAsLTE4NDA0MDc4MTUsLT
+eyJoaXN0b3J5IjpbLTE4MTE5Nzg4NDcsLTE4NDA0MDc4MTUsLT
 E3MTcyMjk0ODMsLTE3MDY5OTI2NjldfQ==
 -->
