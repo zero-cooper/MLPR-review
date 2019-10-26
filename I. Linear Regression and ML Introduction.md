@@ -12,15 +12,15 @@ $$\underline{X}=
 \right)=
 \left(
  \begin{matrix}
-   x_1^{(1)} & x^\\
-   f & g & h & i & j \\
-   k & l & m & n & o \\
+   x_1^{(1)} & x_2^{(1)} &...& x_D^{(1)}\\
+   x_1^{(2)} & x_2^{(2)} &...& x_D^{(2)}\\
+  \
    p & q & r & s & t
   \end{matrix} 
 \right)
 $$
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3Mzc1ODg1LC0xODQwNDA3ODE1LC0xNz
-E3MjI5NDgzLC0xNzA2OTkyNjY5XX0=
+eyJoaXN0b3J5IjpbMjA2NjU3NTg1OSwtMTg0MDQwNzgxNSwtMT
+cxNzIyOTQ4MywtMTcwNjk5MjY2OV19
 -->
