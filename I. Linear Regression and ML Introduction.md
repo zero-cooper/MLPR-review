@@ -5,13 +5,14 @@
 $$\underline{X}=
 \left(
  \begin{matrix}
-   x^{(1)}\\
-   \vdots
+   x^{(1)^T}\\
+   \vdots\\
+   x^{(n)^T}
   \end{matrix} 
 \right)=
 \left(
  \begin{matrix}
-   a & b & c & d & e\\
+   x_1^{(1)}\\
    f & g & h & i & j \\
    k & l & m & n & o \\
    p & q & r & s & t
@@ -20,6 +21,6 @@ $$\underline{X}=
 $$
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIzNTM4MDc3LC0xODQwNDA3ODE1LC0xNz
-E3MjI5NDgzLC0xNzA2OTkyNjY5XX0=
+eyJoaXN0b3J5IjpbLTY5MDAyMzQ0MSwtMTg0MDQwNzgxNSwtMT
+cxNzIyOTQ4MywtMTcwNjk5MjY2OV19
 -->
