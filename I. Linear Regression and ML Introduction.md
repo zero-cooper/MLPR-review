@@ -17,10 +17,16 @@ $$\underline{X}=
   \vdots&\vdots&\ddots\\
    x_1^{(n)} & x_2^{(n)} &...& x_D^{(n)}
   \end{matrix} 
+\right),\underline{y} = \left(
+ \begin{matrix}
+   y^{(1)}\\
+   \vdots\\
+   y^{(n)}
+  \end{matrix} 
 \right)
 $$
-```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MjE3NzM0LC0xODQwNDA3ODE1LC0xNz
-E3MjI5NDgzLC0xNzA2OTkyNjY5XX0=
+eyJoaXN0b3J5IjpbMTgyMTIwMDQzOSwtMTg0MDQwNzgxNSwtMT
+cxNzIyOTQ4MywtMTcwNjk5MjY2OV19
 -->
