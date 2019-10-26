@@ -14,13 +14,13 @@ $$\underline{X}=
  \begin{matrix}
    x_1^{(1)} & x_2^{(1)} &...& x_D^{(1)}\\
    x_1^{(2)} & x_2^{(2)} &...& x_D^{(2)}\\
-  \
+  \vdots&\vdots&\ddots\\
    p & q & r & s & t
   \end{matrix} 
 \right)
 $$
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NjU3NTg1OSwtMTg0MDQwNzgxNSwtMT
-cxNzIyOTQ4MywtMTcwNjk5MjY2OV19
+eyJoaXN0b3J5IjpbLTEwNjAzNDA3MzksLTE4NDA0MDc4MTUsLT
+E3MTcyMjk0ODMsLTE3MDY5OTI2NjldfQ==
 -->
