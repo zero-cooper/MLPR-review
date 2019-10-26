@@ -28,10 +28,24 @@ $$where D is the dimension of the data, n is the number of the instances. $$\new
  - The least-square fitting problem is to find the parameters (in this case $w,b$) that minimize the error.
  - General form: 
  $$
- X\rightarrow X' = 
+ X\rightarrow X' = \left(
+ \begin{matrix}
+   1&x_1^{(1)} & x_2^{(1)} &...& x_D^{(1)}\\
+   1&x_1^{(2)} & x_2^{(2)} &...& x_D^{(2)}\\
+  \vdots&\vdots&\ddots\\
+   1& x_1^{(n)} & x_2^{(n)} &...& x_D^{(n)}
+  \end{matrix} 
+\right),
+w\rightarrow w' = \left(
+ \begin{matrix}
+   w_0\\
+   \vdots\\
+   y^{(n)}
+  \end{matrix} 
+\right),
  $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTY4MzE4MywtMTg0MDQwNzgxNSwtMT
-cxNzIyOTQ4MywtMTcwNjk5MjY2OV19
+eyJoaXN0b3J5IjpbLTE5MjAzOTgxNjMsLTE1OTY4MzE4MywtMT
+g0MDQwNzgxNSwtMTcxNzIyOTQ4MywtMTcwNjk5MjY2OV19
 -->
