@@ -38,14 +38,15 @@ $$where D is the dimension of the data, n is the number of the instances. $$\new
 \right),
 w\rightarrow w' = \left(
  \begin{matrix}
-   w_0\\
+   w_0 = b\\
+   w_1\\
    \vdots\\
-   y^{(n)}
+   w_D
   \end{matrix} 
 \right),
  $$
-
+$\Rightarrow$ The new model
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjAzOTgxNjMsLTE1OTY4MzE4MywtMT
-g0MDQwNzgxNSwtMTcxNzIyOTQ4MywtMTcwNjk5MjY2OV19
+eyJoaXN0b3J5IjpbLTE1Njk1MTE0MiwtMTU5NjgzMTgzLC0xOD
+QwNDA3ODE1LC0xNzE3MjI5NDgzLC0xNzA2OTkyNjY5XX0=
 -->
