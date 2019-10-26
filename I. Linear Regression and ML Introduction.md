@@ -45,8 +45,10 @@ w\rightarrow w' = \left(
   \end{matrix} 
 \right),
  $$
-$\Rightarrow$ The new model becomes: $\underline{y} = \underline{X}'w'$, a linear model without intersection
+$\Rightarrow$ The new model becomes: $\underline{y} = \underline{X}'w'$, a linear model without intercept.$\newline$
+---> c. Polynomial fitting (多项式拟合):
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjYzOTYyNjMsLTE1OTY4MzE4MywtMT
-g0MDQwNzgxNSwtMTcxNzIyOTQ4MywtMTcwNjk5MjY2OV19
+eyJoaXN0b3J5IjpbLTY3NTkzOTAzOSwtMTU5NjgzMTgzLC0xOD
+QwNDA3ODE1LC0xNzE3MjI5NDgzLC0xNzA2OTkyNjY5XX0=
 -->
