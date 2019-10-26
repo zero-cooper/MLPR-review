@@ -24,8 +24,8 @@ $$\underline{X}=
   \end{matrix} 
 \right),
 $$where D is the dimension of the data, n is the number of the instances. $$\newline$$
----> b. Total square error between prediction function $f$ and true value: $$L = \sum_{n=1}^{}$$ 
+---> b. Total square error between prediction function $f$ and true value: $$L = \sum_{n=1}^{N}[y^{(n)}-f(x^{(n)};w,b)]^2 = (y-f)^T(y-f)$$ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc4NzgxNDM0LC0xODQwNDA3ODE1LC0xNz
-E3MjI5NDgzLC0xNzA2OTkyNjY5XX0=
+eyJoaXN0b3J5IjpbLTYyNTg3Njc4OCwtMTg0MDQwNzgxNSwtMT
+cxNzIyOTQ4MywtMTcwNjk5MjY2OV19
 -->
