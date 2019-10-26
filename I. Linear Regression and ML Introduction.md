@@ -3,11 +3,10 @@
 ---> a. when output $\underline{y}$ and input $\underline{X}$ are matrix, stacked by $n$ input-output pairs $(x^{(i)},y^{(i)}), i = 1,2,...n$:
 
     $$
-    \begin{equation}
-    \end{}
+
     $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMDI1NTAyMSwtMTcxNzIyOTQ4MywtMT
-cwNjk5MjY2OV19
+eyJoaXN0b3J5IjpbLTE4NDA0MDc4MTUsLTE3MTcyMjk0ODMsLT
+E3MDY5OTI2NjldfQ==
 -->
