@@ -45,8 +45,8 @@ w\rightarrow w' = \left(
   \end{matrix} 
 \right),
  $$
-$\Rightarrow$ The new model
+$\Rightarrow$ The new model becomes: $\underline{y} = \underline{X}'w'$, a linear model without intersection
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Njk1MTE0MiwtMTU5NjgzMTgzLC0xOD
-QwNDA3ODE1LC0xNzE3MjI5NDgzLC0xNzA2OTkyNjY5XX0=
+eyJoaXN0b3J5IjpbLTE3NjYzOTYyNjMsLTE1OTY4MzE4MywtMT
+g0MDQwNzgxNSwtMTcxNzIyOTQ4MywtMTcwNjk5MjY2OV19
 -->
