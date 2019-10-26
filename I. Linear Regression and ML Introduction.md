@@ -3,7 +3,12 @@
 ---> a. when output $\underline{y}$ and input $\underline{X}$ are matrix, stacked by $n$ input-output pairs $(x^{(i)},y^{(i)}), i = 1,2,...n$:
 
 $$\underline{X}=
-
+\left(
+ \begin{matrix}
+   x^{(1)}\\
+   \vdots
+  \end{matrix} 
+\right)=
 \left(
  \begin{matrix}
    a & b & c & d & e\\
@@ -15,6 +20,6 @@ $$\underline{X}=
 $$
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDI2MTYzMzQsLTE4NDA0MDc4MTUsLT
-E3MTcyMjk0ODMsLTE3MDY5OTI2NjldfQ==
+eyJoaXN0b3J5IjpbODIzNTM4MDc3LC0xODQwNDA3ODE1LC0xNz
+E3MjI5NDgzLC0xNzA2OTkyNjY5XX0=
 -->
