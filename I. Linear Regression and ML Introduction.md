@@ -15,12 +15,12 @@ $$\underline{X}=
    x_1^{(1)} & x_2^{(1)} &...& x_D^{(1)}\\
    x_1^{(2)} & x_2^{(2)} &...& x_D^{(2)}\\
   \vdots&\vdots&\ddots\\
-   p & q & r & s & t
+   x_1^{(n)} & x_2^{(n)} &...& x_D^{(n)}
   \end{matrix} 
 \right)
 $$
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjAzNDA3MzksLTE4NDA0MDc4MTUsLT
-E3MTcyMjk0ODMsLTE3MDY5OTI2NjldfQ==
+eyJoaXN0b3J5IjpbMTQ0MjE3NzM0LC0xODQwNDA3ODE1LC0xNz
+E3MjI5NDgzLC0xNzA2OTkyNjY5XX0=
 -->
